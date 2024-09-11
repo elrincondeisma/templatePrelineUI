@@ -1,4 +1,4 @@
-![image](public/banner.jpg)
+![ElRincónDeIsma](public/banner.jpg)
 # Template Laravel Preline UI
 ## [By El Rincón de Isma](https://www.youtube.com/@elrincondeisma?sub_confirmation=1)
 
