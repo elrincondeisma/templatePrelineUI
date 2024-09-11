@@ -12,4 +12,11 @@ Route::view('profile', 'profile')
     ->middleware(['auth'])
     ->name('profile');
 
+
+Route::get('/logout', function () {
+    Auth::guard('web')->logout();
+
+    return redirect('/');
+})->name('logout');
+
 require __DIR__.'/auth.php';
