@@ -9,3 +9,5 @@ Este template esta basado en:
 - Preline UI
 - DevDojo Auth
 - Laravel Breeze
+- Laravel Blade Icons
+- Laravel Heroicons
